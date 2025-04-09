@@ -8,7 +8,7 @@ dentro deste bloco, criamos o método principal
 classes são compostas por métodos, e eu posso ter várias classes dentro de pacotes
 
 ## Camel Case
-1. se a primeira letra for maiúscula, ela é uma classe ou uma interface.
-2. se a primeira letra for minúscula e o restante começa com maiúscula, ela pode ser um atributo, uma variável ou um método.
-3. todas as letras maiúsculas configura uma constante.
+	1. se a primeira letra for maiúscula, ela é uma classe ou uma interface.
+1. se a primeira letra for minúscula e o restante começa com maiúscula, ela pode ser um atributo, uma variável ou um método.
+2. todas as letras maiúsculas configura uma constante.
 

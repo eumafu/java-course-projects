@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Para Inicantes/Aula 04 - Java para inciantes.md",
+                "file": "Java Para Inicantes/Aula 05 - Introdução ao Swing e JavaFX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aula 04 - Java para inciantes"
+              "title": "Aula 05 - Introdução ao Swing e JavaFX"
             }
           }
         ]
@@ -168,10 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "647622c8c7771546",
+  "active": "71cfb26b58248177",
   "lastOpenFiles": [
+    "Java Para Inicantes/Aula 04 - Primeiro programa Java.md",
+    "Java Para Inicantes/Aula 05 - Introdução ao Swing e JavaFX.md",
     "Java Para Inicantes",
-    "Welcome.md",
-    "Java Para Inicantes/Aula 04 - Java para inciantes.md"
+    "Welcome.md"
   ]
 }
