@@ -10,7 +10,7 @@ public class PrimeiroFrame {
         CliqueTexto.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                JOptionPane.showMessageDialog(null, "Vai tomar no cu");
+                JOptionPane.showMessageDialog(null, "Helo Word!");
             }
         });
     }
