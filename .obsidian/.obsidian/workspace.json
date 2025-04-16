@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "5a1211a4d490bd8c",
+    "id": "2e43d7a37f5b05d5",
     "type": "split",
     "children": [
       {
-        "id": "7a63fa0ff5372fa6",
+        "id": "444cad59737b2e2c",
         "type": "tabs",
         "children": [
           {
-            "id": "71cfb26b58248177",
+            "id": "db5421998f346813",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java Prof. Nélio Alves/Seção 3/03 - Sáida de dados.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "03 - Sáida de dados"
+              "title": "Nova aba"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "67f0fb0cf7170760",
+    "id": "0f7e98020e90ff88",
     "type": "split",
     "children": [
       {
-        "id": "7012665a4cb234fe",
+        "id": "0c748c4f792e8637",
         "type": "tabs",
         "children": [
           {
-            "id": "647622c8c7771546",
+            "id": "e223ffddd5e87db8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "bf4273493eebb6ba",
+            "id": "0355865f36d01801",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,17 +57,17 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
-            "id": "632652b3dada9465",
+            "id": "f56e7fd8b4942d71",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           }
         ]
@@ -81,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "e0a0fa7138e298e1",
+    "id": "2133581c13da9b94",
     "type": "split",
     "children": [
       {
-        "id": "1df7cbc448e496a6",
+        "id": "3f20e276cb4df598",
         "type": "tabs",
         "children": [
           {
-            "id": "bc060e59e94f3f52",
+            "id": "20422e3727e426e6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "ffd0f264b95369f1",
+            "id": "c5f949749f7033be",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Links de saída"
             }
           },
           {
-            "id": "c472ff0cf627037f",
+            "id": "1e621d4ad3dd1644",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +131,17 @@
             }
           },
           {
-            "id": "ea5323cabc5e1546",
+            "id": "1b0974761fea003d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Sumário"
             }
           }
         ]
@@ -168,34 +161,6 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "71cfb26b58248177",
-  "lastOpenFiles": [
-    "Java Prof. Nélio Alves/Seção 3/02 - Variáveis.md",
-    "Java Prof. Nélio Alves/Seção 3/03 - Sáida de dados.md",
-    "Java Prof. Nélio Alves/Seção 3/01 - Expressões aritméticas.md",
-    "Imagens/Pasted image 20250414212150.png",
-    "Pasted image 20250414212110.png",
-    "Pasted image 20250414212031.png",
-    "Pasted image 20250414212037.png",
-    "Imagens/Pasted image 20250414211358.png",
-    "Imagens/Pasted image 20250414210958.png",
-    "Java Prof. Nélio Alves/Seção 02/Primeiro programa em Java.md",
-    "Java Prof. Nélio Alves/Seção 3",
-    "Java Para Inicantes/Aula 05 - Introdução ao Swing e JavaFX.md",
-    "Java Prof. Nélio Alves/Seção 02/Estrutura de uma aplicação Java.md",
-    "Java Prof. Nélio Alves/Seção 01/Conceitos de programação.md",
-    "Java Prof. Nélio Alves/Seção 02",
-    "Java Prof. Nélio Alves/Untitled.md",
-    "Java Prof. Nélio Alves/Seção 01",
-    "Pasted image 20250412201505.png",
-    "Pasted image 20250412201501.png",
-    "Pasted image 20250412201455.png",
-    "Imagens/Pasted image 20250412200925.png",
-    "Java Para Inicantes/Aula 06 - Tipos primitivos.md",
-    "Java Prof. Nélio Alves",
-    "Imagens",
-    "Java Para Inicantes/Aula 04 - Primeiro programa Java.md",
-    "Java Para Inicantes",
-    "Welcome.md"
-  ]
+  "active": "db5421998f346813",
+  "lastOpenFiles": []
 }
