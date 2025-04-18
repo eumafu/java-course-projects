@@ -16,7 +16,4 @@ Repositório com exercícios e projetos desenvolvidos durante minha formação e
 
 ---
 
-## 📂 Estrutura do repositório
-java-course-projects/
-├── ObsidianNotes/         # Anotações pessoais e resumos feitos no Obsidian
-└── java-nelio-alves/      # Projetos e exercícios do curso de Java do Nélio Alves (Udemy)
+<pre><code>## 📂 Estrutura do repositório ``` java-course-projects/ ├── ObsidianNotes/ # Anotações pessoais e resumos feitos no Obsidian └── java-nelio-alves/ # Projetos e exercícios do curso de Java do Nélio Alves (Udemy) ``` </code></pre>
