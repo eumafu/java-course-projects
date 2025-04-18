@@ -15,9 +15,3 @@ Repositório com exercícios e projetos desenvolvidos durante minha formação e
 ✔️ Projetos práticos
 
 ---
-
-## 📂 Estrutura do repositório
-
--java-course-projects
-  -ObsidianNotes   // Anotações e resumos
-  -java-nelio-alves    // Prática e exercícios
