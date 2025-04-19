@@ -2,12 +2,14 @@ package secao01_sequential_structure;
 
 public class DataProcessing {
     public static void main(String[] args) {
+        //Métodos
         exemplo1();
         exemplo2();
         exemplo3();
         exemplo4();
         exemplo5();
     }
+        //Chamando métodos
         public static void exemplo1() {
             int x,y;
             x = 5;
