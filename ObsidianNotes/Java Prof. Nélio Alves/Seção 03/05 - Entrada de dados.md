@@ -6,7 +6,7 @@ A entrada de dados ocorre quando o usuário informa um dado para alocar dentro d
 Para criar uma entrada de dado em Java, é necessário criar um Objeto do tipo "SCANNER" da seguinte forma:
 	Scanner sc = new Scanner (System.in);
 
-## Leitura de Sting
+## Leitura de String
 Suponha uma variável do tipo String declarada
 	Sring x;
 

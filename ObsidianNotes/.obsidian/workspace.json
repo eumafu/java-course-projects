@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Prof. Nélio Alves/Seção 03/05 - Entrada de dados.md",
+                "file": "Java Prof. Nélio Alves/Seção 04/02 - Estrutura condicional.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 - Entrada de dados"
+              "title": "02 - Estrutura condicional"
             }
           }
         ]
@@ -168,10 +168,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "71cfb26b58248177",
+  "active": "647622c8c7771546",
   "lastOpenFiles": [
-    "Java Prof. Nélio Alves/Seção 03/04 - Processamento de dados.md",
+    "Java Prof. Nélio Alves/Seção 04/01 - Expressões comparativas.md",
+    "Java Prof. Nélio Alves/Seção 04/02 - Estrutura condicional.md",
+    "Imagens/Pasted image 20250516133249.png",
+    "Java Prof. Nélio Alves/Seção 03/06 - Funções matemáticas.md",
+    "Java Prof. Nélio Alves/Seção 04",
     "Java Prof. Nélio Alves/Seção 03/05 - Entrada de dados.md",
+    "Java Prof. Nélio Alves/Seção 03/04 - Processamento de dados.md",
     "Java Prof. Nélio Alves/Seção 03/03 - Sáida de dados.md",
     "Java Prof. Nélio Alves/Seção 03/02 - Variáveis.md",
     "Java Prof. Nélio Alves/Seção 03/01 - Expressões aritméticas.md",
@@ -192,7 +197,6 @@
     "Pasted image 20250412201505.png",
     "Pasted image 20250412201501.png",
     "Pasted image 20250412201455.png",
-    "Imagens/Pasted image 20250412200925.png",
     "Java Para Inicantes/Aula 06 - Tipos primitivos.md",
     "Java Prof. Nélio Alves",
     "Imagens",

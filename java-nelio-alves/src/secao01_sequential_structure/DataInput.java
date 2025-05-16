@@ -16,7 +16,7 @@ public class DataInput {
 
         sc.close();
     }
-    /* 1° Puxando o scanner no void
+    /* 1° Puxando o scanner do void como parâmetro
     * 2° usando nextLine (Lê apenas uma palavra)
      */
     public static void exemplo1(Scanner sc){
